@@ -1,0 +1,285 @@
+/* nav: why? / illustration / buy
+absurd illustrations that make sense
+What about absurd illustrations for your projects? Take every user on an individual journey through their own imagination.
+real beauty resides in imperfection
+In a digital era, we sometimes feel the need to interact with something more human that will make us appreciate both the beauty and the imperfection of something made by hand.
+expressiveness is... the new black
+This series of illustrations paradoxically combines absurdity and a deep sense of childishness and naivety.
+illustrations for applications
+Welcome to my space for experiments! Look at this like a journey we can take together every step of the way, beginning another chapter with each new phase of the project development. And who knows where it will take us?
+examples of use
+Each illustration offers the possibility of limitless interpretations and uses and everyone can give it its own meaning. It depends only on each one's creativity and free spirit.
+download illustrations
+You're free to use these illustrations for both personal and commercial projects. And if you want to make a human happy would be nice to give credits by mentioning this website or be my supporter. I have created a membership plan for people who love my works and wish to support me and receive new artwork regularly.
+
+ */
+/* Inhalt:
+
+membership
+$57
+per year
+No link required
+Unlimited access
+New content regularly
+Colored versions
+PNG format files
+SVG format files
+Premium support
+Become Member
+any absurd suggestions?
+Email
+super@super.de
+Follow me fb/ig/tw/yt
+Assets:
+Font: Merriweather, Lato
+Farbe: #202020, #24bff2, #fff, #F5FBFE.
+Farbe social media: #3b5998, #fcaf45, #55acee, #c4302b
+
+ */
+/* html{
+    font-family: font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+} */
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Merriweather&display=swap");
+
+* {
+  margin: 0;
+}
+body {
+  font-family: "Merriweather", serif;
+}
+/* ============= HEADER ============= */
+header {
+  font-family: "Lato", sans-serif;
+  font-size: 0.6rem;
+}
+header ul {
+  list-style: none;
+  text-align: right;
+  /* (0, 0, 0, 0.732) */
+  padding: 10px;
+}
+header li {
+  display: inline-block;
+  margin: 15px;
+}
+/* ============= MAIN =============  */
+main section article h1,
+h2 {
+  font-family: "Merriweather", serif;
+  font-size: 1.6rem;
+  width: 17.3rem;
+}
+/* hello, hier vertehe ich nicht, wieso es das nicht übernimmt h2 not(h2:third-of-type) {
+  width: 14.3rem;
+} */
+main section:nth-of-type(2),
+h2 {
+  font-family: "Merriweather", serif;
+  /* /* font-size: 1.6rem; */
+  /* width: 13.3rem; */
+}
+.article1 {
+  position: relative;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 180%;
+  display: inline-block;
+  /* margin: 15px 113px 0px 49px; */
+  top: -8.5rem;
+  left: 9rem;
+  width: 23.6rem;
+  letter-spacing: -0.02em;
+}
+.article2 {
+  position: relative;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 200%;
+  display: inline-block;
+  top: -2.5rem;
+  left: 9rem;
+  letter-spacing: -0.02em;
+  width: 25.6rem;
+}
+/* margin: 15px 113px 0px 1150px; */
+
+.article3 {
+  position: relative;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 200%;
+  display: inline-block;
+  top: -4.5rem;
+  left: 6rem;
+  /* margin: 15px 113px 0px 49px; */
+  width: 22.9rem;
+  letter-spacing: -0.02em;
+}
+.article4 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 200%;
+  text-align: center;
+  /* margin: 15px 113px 0px 210px; */
+  margin: 15px auto;
+  width: 38.9rem;
+  letter-spacing: -0.04em;
+}
+/* img {
+  width: 21.6rem;
+} */
+.illu1 {
+  display: inline-block;
+}
+.illu1 img {
+  width: 15.3rem;
+  margin-left: 11.6rem;
+}
+button:nth-of-type(1) {
+  background-color: black;
+  color: white;
+  padding: 0.5rem;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+button:nth-of-type(2) {
+  background-color: white;
+  border: 1px solid gainsboro;
+  padding: 0.5rem;
+  border-radius: 3px;
+}
+.illu2 {
+  display: inline-block;
+}
+.illu2 img {
+  width: 15.3rem;
+  margin-left: 1.6rem;
+}
+.illu3 {
+  display: inline-block;
+}
+.illu3 img {
+  width: 21.6rem;
+  margin-left: 15.6rem;
+}
+.illu4 {
+  display: inline-block;
+  width: 100%;
+}
+.illu4 img {
+  display: inline-block;
+  width: 33%;
+}
+.illu4 img:hover {
+  box-shadow: 0 0 11px cornflowerblue;
+}
+.article4 h2 {
+  width: 35rem;
+}
+.article5 {
+  /* position: relative; */
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 200%;
+  text-align: center;
+  margin: 15px auto;
+  /* margin: 15px 113px 0px 49px; */
+  width: 35rem;
+  letter-spacing: -0.02em;
+}
+.article5 h2 {
+  width: 35rem;
+}
+.article6 {
+  width: 100%;
+}
+.article6 img {
+  display: inline-block;
+  width: 35%;
+  margin: 3rem;
+}
+.article6 img:hover {
+  box-shadow: 0 0 11px rgba(0, 0, 0, 0.231);
+}
+.article7 {
+  /* position: relative; */
+  font-style: normal;
+  font-weight: 380;
+  font-size: 1.55rem;
+  line-height: 175%;
+  text-align: center;
+  margin: 15px auto;
+  width: 82.4%;
+}
+.article7 h2 {
+  width: 52rem;
+  font-size: 2.6rem;
+  padding-bottom: 2.8rem;
+}
+.article8 {
+  text-align: center;
+  background-color: #24bff267;
+  width: 20%;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+.article8 ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 25px;
+}
+.article8 p {
+  font-size: 1.5rem;
+  color: black;
+}
+.article8 button {
+  color: white;
+  background-color: #24bff2ec;
+  border: 0;
+  margin-top: 15px;
+  padding: 0.7rem 2rem;
+}
+footer {
+  text-align: center;
+}
+footer p {
+  margin: 15px auto;
+  font-family: "Merriweather", serif;
+  font-size: 1.6rem;
+  width: 21.3rem;
+}
+footer ul li {
+  list-style: none;
+
+  margin-top: 1.3%;
+  color: grey;
+}
+footer ul li:nth-of-type(2) {
+  color: black;
+}
+footer section {
+  font-size: 1.2rem;
+  margin-top: 1.3rem;
+}
+footer section a {
+  text-decoration: none;
+  color: black;
+}
+footer span:nth-of-type(1) {
+  color: #3b5988;
+}
+footer span:nth-of-type(2) {
+  color: #fcaf45;
+}
+footer span:nth-of-type(3) {
+  color: #55acee;
+}
+footer span:nth-of-type(4) {
+  color: #c4302b;
+}
